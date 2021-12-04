@@ -1,0 +1,33 @@
+{
+    "name": "translate-kyrgyz",
+    "version": "1.0.0",
+    "description": "translate from russian to kyrgyz.",
+    "main": "./src",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/maxburkanov/translate-kyrgyz"
+    },
+    "homepage": "https://github.com/maxburkanov/translate-kyrgyz",
+    "keywords": [
+      "convert",
+      "number",
+      "to",
+      "words",
+      "kyrgyz",
+      "kgs",
+      "kg"
+    ],
+    "author": "Max Burkanov",
+    "license": "MIT",
+    "dependencies": {
+        "google-translate-token": "latest",
+        "got": "^6.3.0",
+        "safe-eval": "^0.3.0"
+      },
+    "devDependencies": {
+      "jest": "^27.3.1"
+    }
+  }
