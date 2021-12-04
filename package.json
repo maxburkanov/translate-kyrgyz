@@ -12,13 +12,16 @@
     },
     "homepage": "https://github.com/maxburkanov/translate-kyrgyz",
     "keywords": [
-      "convert",
-      "number",
       "to",
       "words",
       "kyrgyz",
       "kgs",
-      "kg"
+      "kg",
+      "translator",
+      "google",
+      "translate",
+      "api",
+      "language"
     ],
     "author": "Max Burkanov",
     "license": "MIT",
