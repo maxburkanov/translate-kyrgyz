@@ -2,7 +2,7 @@ import got from "got";
 import safeEval from "safe-eval";
 import token from "google-translate-token";
 
-function translate(text) {
+function translate(text = "один") {
   var opts = opts || {};
   opts.from = "ru";
   opts.to = "ky";

@@ -2,7 +2,8 @@
   "name": "translate-kyrgyz",
   "version": "1.0.1",
   "description": "translate from russian to kyrgyz.",
-  "main": "./src",
+  "main": "src/index.js",
+  "bin": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "jest"
