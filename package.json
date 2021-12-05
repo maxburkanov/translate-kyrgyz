@@ -1,6 +1,6 @@
 {
   "name": "translate-kyrgyz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "translate from russian to kyrgyz.",
   "main": "./src",
   "scripts": {
