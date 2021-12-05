@@ -1,6 +1,6 @@
 {
   "name": "translate-kyrgyz",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "translate from russian to kyrgyz.",
   "main": "src/index.js",
   "bin": "src/index.js",
@@ -14,16 +14,15 @@
   },
   "homepage": "https://github.com/maxburkanov/translate-kyrgyz",
   "keywords": [
-    "to",
-    "words",
-    "kyrgyz",
-    "kgs",
-    "kg",
-    "translator",
-    "google",
     "translate",
+    "translator",
+    "kyrgyz",
+    "kg",
+    "kgz",
+    "google",
     "api",
-    "language"
+    "language",
+    "russian"
   ],
   "author": "Max Burkanov",
   "license": "MIT",
