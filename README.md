@@ -16,5 +16,5 @@ translates any cyrillic word to kyrgyz
 ```js
 import translate from "translate-kyrgyz";
 
-translate("eleven"); // "Он үч"
+translate("Привет, мир"); // "салам дүйнө"
 ```
