@@ -1,5 +1,12 @@
-'use strict'; 
+import { default as customTranslate } from "./translate.js";
 
-module.exports = {
-    translate: require('./translate'),
-};
+const translate = (text) =>
+  customTranslate(text)
+    .then((res) => {
+      return res;
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+
+export default translate;

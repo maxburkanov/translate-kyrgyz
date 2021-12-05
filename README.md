@@ -1,20 +1,20 @@
 ### upcoming
+
 translate from russian to kyrgyz with one method
 
 ## Install
 
-```npm i translate-kyrgyz```
-```yarn add translate-kyrgyz```
-
+`npm i translate-kyrgyz`
+`yarn add translate-kyrgyz`
 
 ## API
 
 #### `translate(text)`
 
-translates any cyrillic word to kyrgyz 
+translates any cyrillic word to kyrgyz
 
 ```js
-var { translate } = require('translate-kyrgyz/src');
+var translate = require("@translate-kyrgyz");
 
-translate('eleven'); // "Он үч"
+translate("eleven"); // "Он үч"
 ```
